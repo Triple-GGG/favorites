@@ -2,6 +2,7 @@
 My favorite links
 
 - [GCC wiki -- List of compiler books](https://gcc.gnu.org/wiki/ListOfCompilerBooks)
+- [Top 10 Amazon Books in Artificial Intelligence & Machine Learning, 2016 Edition](https://www.kdnuggets.com/2016/11/top-10-amazon-books-ai-machine-learning.html)
 
 ## LaTeX
 
